@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E0E0E0"
+    android:orientation="vertical"
+    tools:context=".ListenNow">
+    <TextView
+        android:paddingLeft="8dp"
+
+        android:id="@+id/search"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:textSize="28dp"
+        android:text="Search Songs"
+        android:background="#0288D1"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="16dp"
+        android:layout_marginTop="80dp"/>
+    <TextView
+        android:paddingLeft="8dp"
+
+        android:id="@+id/now"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:textSize="28dp"
+        android:background="#0288D1"
+        android:text="Now Playing"
+        android:layout_margin="16dp"
+        />
+    <TextView
+        android:paddingLeft="8dp"
+
+        android:id="@+id/favourites"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="#0288D1"
+        android:textSize="28dp"
+        android:text="Favourites"
+        android:layout_margin="16dp"
+        />
+    <TextView
+        android:paddingLeft="8dp"
+
+        android:id="@+id/albums"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:textSize="28dp"
+        android:background="#0288D1"
+        android:text="Albums"
+        android:layout_margin="16dp"
+        />
+    <TextView
+        android:paddingLeft="8dp"
+        android:id="@+id/paid"
+        android:layout_width="match_parent"
+        android:background="#0288D1"
+        android:layout_height="48dp"
+        android:textSize="28dp"
+        android:text="Paid Music"
+        android:layout_margin="16dp"
+        />
+
+</LinearLayout>

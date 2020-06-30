@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:khalti="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Paid">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal"
+        android:text="Kati free ma geet sunchas? Paisa Tir!"
+        android:paddingTop="24dp"
+        android:textSize="36sp"/>
+
+    <com.khalti.widget.KhaltiButton
+        android:layout_marginTop="24dp"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/khalti_button"
+        khalti:text="Pay Now"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        khalti:button_style="khalti"/>
+
+</LinearLayout>

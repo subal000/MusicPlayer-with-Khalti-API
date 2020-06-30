@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.khalti:khalti-android:2.00.01@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1d3b003d6295e378ec725a5f49935bdb/jetified-khalti-android-2.00.01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1d3b003d6295e378ec725a5f49935bdb/jetified-khalti-android-2.00.01/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.khalti/khalti-android/2.00.01/959925123a44c15167b15b06ac69824881f63ec8/khalti-android-2.00.01-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.khalti/khalti-android/2.00.01/dc047c496d86ddd1c6345a59cb80d89832429a6c/khalti-android-2.00.01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
